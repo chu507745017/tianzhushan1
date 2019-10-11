@@ -4,4 +4,6 @@ String name;
 
 int age;
 
+int number;
+
 }
